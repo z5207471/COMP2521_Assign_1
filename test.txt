@@ -1,0 +1,8 @@
+This is a test document
+*** START OF THIS PROJECT GUTENBERG EBOOK
+with only a few lines of text
+to see if words can be separated
+1234--123 '23134' '-coolguy42-' STARTED-ALL-CAPS wow
+heavily heaviside introduced Alice
+*** END OF THIS PROJECT GUTENBERG EBOOK
+wow wow wow wow wow
